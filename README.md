@@ -1,4 +1,4 @@
-# DesafioLLM
+# DesafioLLM - Gerador de Isekai
 
 Para rodar, crie na raiz do projeto um arquivo config.js com a seguinte estrutura:
 
